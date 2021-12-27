@@ -18,13 +18,13 @@
 
 按语言和知识模块分为七份Cheat Sheet：
 
-- HTML
-- [CSS](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/CSS%EF%BC%88pdf%20version).pdf)
-- JAVASCRIPT(ES5)
-- DOM
-- BOM
-- ES6+
-- REACT
+- [HTML](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/HTML%20pdf-version.pdf)
+- [CSS](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/CSS%20pdf-version.pdf)
+- [JAVASCRIPT(ES5)](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/JavaScript%20pdf%20version.pdf)
+- [DOM](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/JavaScript-DOM%20pdf%20version.pdf)
+- [BOM](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/JavaScript-DOM%20pdf%20version.pdf)
+- [ES6+](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/ES6%2B%20pdf-version.pdf)
+- [REACT](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/React%E5%9F%BA%E7%A1%80%20pdf%20version.pdf)
 
 ## 使用
 
