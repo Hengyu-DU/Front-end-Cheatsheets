@@ -28,11 +28,11 @@
 
 ## 使用
 
-- 下载PDF文件
-- 可打印后放在手边，随时查阅
+- 下载[PDF文件](https://github.com/Hengyu-DU/Front-end-Cheatsheets/tree/master/pdf)
+- 打印
 - 可用于语法速查、查漏补缺、面试复习
 
 ## 自定义
 
-- 下载XLSX文件
+- 下载[XLSX文件](https://github.com/Hengyu-DU/Front-end-Cheatsheets/tree/master/xlsx)
 - 自行修改内容
