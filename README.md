@@ -1,5 +1,4 @@
-# HTML、CSS、JavaScript（DOM\BOM\ES6+）、React语法小抄
-
+# 7份小抄总结前端语法核心要点
 
 
 或许是第一份中文版的前端语法小抄（Cheat Sheet）了。
