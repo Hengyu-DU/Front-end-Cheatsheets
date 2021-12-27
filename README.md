@@ -19,7 +19,7 @@
 按语言和知识模块分为七份Cheat Sheet：
 
 - HTML
-- CSS
+- [CSS](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/CSS%EF%BC%88pdf%20version).pdf)
 - JAVASCRIPT(ES5)
 - DOM
 - BOM
