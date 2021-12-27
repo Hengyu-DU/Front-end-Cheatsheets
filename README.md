@@ -1,4 +1,4 @@
-# 7份小抄总结前端语法核心要点
+# HTML、CSS、JavaScript（DOM\BOM\ES6+）、React中文版语法小抄
 
 
 或许是第一份中文版的前端语法小抄（Cheat Sheet）了。
@@ -35,3 +35,7 @@
 
 - 下载[XLSX文件](https://github.com/Hengyu-DU/Front-end-Cheatsheets/tree/master/xlsx)
 - 自行修改内容
+
+## 英文版
+
+- 一位来自加勒比海的大佬[@manz](https://twitter.com/Manz)整理好了JavaScript的核心语法（以ES6+语法为主），可以在他的[个人网站](https://lenguajejs.com/cheatsheets/)**免费**下载。
