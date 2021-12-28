@@ -1,4 +1,5 @@
-# HTML、CSS、JavaScript（DOM\BOM\ES6+）、React中文版语法小抄
+# HTML、CSS、JavaScript（DOM\BOM\ES6+）、React语法速查表
+
 
 
 或许是第一份中文版的前端语法小抄（Cheat Sheet）了。
@@ -38,4 +39,58 @@
 
 ## 英文版
 
-- 一位来自加勒比海的大佬[@manz](https://twitter.com/Manz)整理好了JavaScript的核心语法（以ES6+语法为主），可以在他的[个人网站](https://lenguajejs.com/cheatsheets/)**免费**下载。
+- 一位来自加勒比海的大佬[@manz](https://twitter.com/Manz)整理好了JavaScript的核心语法（ES6+语法为主）
+- 下载地址：他的[个人网站](https://lenguajejs.com/cheatsheets/)（网站语言为西班牙语，可以用Chrome的翻译功能）
+
+## 文件预览
+
+（图片加载可能较慢，显示的速度取决于网速，请耐心等待）
+
+### CSS
+
+页数：3
+
+![CSS](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/css.png)
+
+### HTML
+
+页数：2
+
+![HTML](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/html.png)
+
+### JAVASCRIPT (ES5)
+
+页数：3
+
+![JS](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/javascript.png)
+
+### DOM
+
+页数：3
+
+![DOM](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/dom.png)
+
+### BOM
+
+页数：1
+
+![BOM](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/bom.png)
+
+### ES6+
+
+页数：4
+
+![ES6+](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/es6+.png)
+
+### REACT
+
+页数：3
+
+![REACT](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/react.png)
+
+
+
+
+
+>  [返回顶部](#HTML、CSS、JavaScript（DOM\BOM\ES6+）、React语法速查表 ) 
+
