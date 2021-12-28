@@ -50,43 +50,43 @@
 
 页数：3
 
-![CSS](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/css.png)
+![CSS](./preview/css.png)
 
 ### HTML
 
 页数：2
 
-![HTML](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/html.png)
+![HTML](./preview/html.png)
 
 ### JAVASCRIPT (ES5)
 
 页数：3
 
-![JS](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/javascript.png)
+![JS](./preview/javascript.png)
 
 ### DOM
 
 页数：3
 
-![DOM](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/dom.png)
+![DOM](./preview/dom.png)
 
 ### BOM
 
 页数：1
 
-![BOM](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/bom.png)
+![BOM](./preview/bom.png)
 
 ### ES6+
 
 页数：4
 
-![ES6+](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/es6+.png)
+![ES6+](./preview/es6+.png)
 
 ### REACT
 
 页数：3
 
-![REACT](C:/Users/victo/Desktop/source/HTML CSS JS All-in-One/preview/react.png)
+![REACT](./preview/react.png)
 
 
 
