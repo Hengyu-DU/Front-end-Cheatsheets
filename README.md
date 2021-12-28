@@ -14,7 +14,7 @@
 
 ## 内容
 
-![前端知识小抄主题图](./preview/layout-transparent.png)
+![前端知识小抄主题图，无法显示时请检查网络连接是否异常](./preview/layout-transparent.png)
 
 按语言和知识模块分为七份Cheat Sheet：
 
@@ -50,43 +50,43 @@
 
 页数：3
 
-![CSS](./preview/css.png)
+![CSS速查表预览图，无法显示时请检查网络连接是否异常](./preview/css.png)
 
 ### HTML
 
 页数：2
 
-![HTML](./preview/html.png)
+![HTML速查表预览图，无法显示时请检查网络连接是否异常](./preview/html.png)
 
 ### JAVASCRIPT (ES5)
 
 页数：3
 
-![JS](./preview/javascript.png)
+![JS速查表预览图，无法显示时请检查网络连接是否异常](./preview/javascript.png)
 
 ### DOM
 
 页数：3
 
-![DOM](./preview/dom.png)
+![DOM速查表预览图，无法显示时请检查网络连接是否异常](./preview/dom.png)
 
 ### BOM
 
 页数：1
 
-![BOM](./preview/bom.png)
+![BOM速查表预览图，无法显示时请检查网络连接是否异常](./preview/bom.png)
 
 ### ES6+
 
 页数：4
 
-![ES6+](./preview/es6+.png)
+![ES6+速查表预览图，无法显示时请检查网络连接是否异常](./preview/es6+.png)
 
 ### REACT
 
 页数：3
 
-![REACT](./preview/react.png)
+![REACT速查表预览图，无法显示时请检查网络连接是否异常](./preview/react.png)
 
 
 
