@@ -25,7 +25,7 @@
 
 - [HTML](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/HTML%20pdf-version.pdf)
 - [CSS](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/CSS%20pdf-version.pdf)
-- [JAVASCRIPT(ES5)](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/JavaScript%20pdf%20version.pdf) - 3张图总结ES5核心语法
+- [JavaScript(ES5)](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/JavaScript%20pdf%20version.pdf) - 3张图总结ES5核心语法
 - [DOM](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/JavaScript-DOM%20pdf%20version.pdf)
 - [BOM](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/JavaScript-DOM%20pdf%20version.pdf)
 - [ES6+](https://github.com/Hengyu-DU/Front-end-Cheatsheets/blob/master/pdf/ES6%2B%20pdf-version.pdf) - 4张图记住ES6核心要点
@@ -99,5 +99,5 @@
 
 
 
->  [返回顶部](# HTML、CSS、JavaScript（DOM\BOM\ES6+）、React语法速查表) 
+>   [返回顶部](##介绍) 
 
